@@ -1,0 +1,10 @@
+.section {
+    border: 2px black solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+#section-1-buttons button {
+    background-color: brown;
+    color: aqua;
+}
